@@ -1,0 +1,22 @@
+.navbar-brand{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+li{
+    color:#fff;
+}
+
+span{
+    color: black;
+}
+
+#form{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin: 0 auto;
+}
